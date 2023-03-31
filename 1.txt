@@ -1,0 +1,199 @@
+The value of the input parameter lambda: 0.15
+The value of the input parameter K: 1000
+sample system mean 1.15872
+sample system variance 0.00101088
+sample wait mean 0.170293
+sample wait variance 0.000247032
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.14734 < 1.15872 < 1.17009
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.164668 < 0.170293 < 0.175917
+Press any key to continue . . .
+
+
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.14745 < 1.15885 < 1.17024
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.289496 < 0.299151 < 0.308806
+
+The value of the input parameter lambda: 0.35
+The value of the input parameter K: 1000
+sample system mean 1.52851
+sample system variance 0.00772599
+sample wait mean 0.785851
+sample wait variance 0.00714492
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.49706 < 1.52851 < 1.55997
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.755603 < 0.785851 < 0.816098
+Press any key to continue . . .
+
+
+The value of the input parameter lambda: 0.35
+The value of the input parameter K: 1000
+sample system mean 1.53076
+sample system variance 0.00762468
+sample wait mean 0.537499
+sample wait variance 0.0051787
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.49951 < 1.53076 < 1.56201
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.511747 < 0.537499 < 0.563251
+Press any key to continue . . .
+
+
+
+The value of the input parameter lambda: 0.25
+The value of the input parameter K: 100000
+sample system mean 1.33239
+sample system variance 2.02089e-05
+sample wait mean 0.332782
+sample wait variance 8.92595e-06
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.33078 < 1.33239 < 1.334
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.331713 < 0.332782 < 0.333851
+Press any key to continue . . .
+
+
+
+The value of the input parameter lambda: 0.35
+The value of the input parameter K: 100000
+sample system mean 1.53853
+sample system variance 5.19049e-05
+sample wait mean 0.538501
+sample wait variance 3.90907e-05
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.53596 < 1.53853 < 1.54111
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.536264 < 0.538501 < 0.540738
+
+
+
+The value of the input parameter lambda: 0.45
+The value of the input parameter K: 100000
+sample system mean 1.8174
+sample system variance 6.17812e-05
+sample wait mean 0.817389
+sample wait variance 4.82473e-05
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.81458 < 1.8174 < 1.82021
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.814903 < 0.817389 < 0.819874
+
+
+
+The value of the input parameter lambda: 0.55
+The value of the input parameter K: 100000
+sample system mean 2.22185
+sample system variance 0.00012734
+sample wait mean 1.22176
+sample wait variance 0.000119359
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+2.21782 < 2.22185 < 2.22589
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+1.21786 < 1.22176 < 1.22567
+Press any key to continue . . .
+
+
+
+Program Output
+
+The value of the input parameter lambda: 0.65
+The value of the input parameter K: 100000
+sample system mean 2.85245
+sample system variance 0.000555368
+sample wait mean 1.85268
+sample wait variance 0.000494757
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+2.84401 < 2.85245 < 2.86088
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+1.84472 < 1.85268 < 1.86064
+Press any key to continue . . .
+
+
+
+The value of the input parameter lambda: 0.75
+The value of the input parameter K: 100000
+sample system mean 3.98266
+sample system variance 0.00185146
+sample wait mean 2.98352
+sample wait variance 0.00176633
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+3.96726 < 3.98266 < 3.99806
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+2.96848 < 2.98352 < 2.99856
+
+The value of the input parameter lambda: 0.85
+The value of the input parameter K: 100000
+sample system mean 6.61756
+sample system variance 0.0512415
+sample wait mean 5.61787
+sample wait variance 0.0505452
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+6.53655 < 6.61756 < 6.69856
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+5.53742 < 5.61787 < 5.69832
+Time taken by function: 1785273340
+
+
+The value of the input parameter lambda: 0.95
+The value of the input parameter K: 100000
+sample system mean 20.1493
+sample system variance 4.05347
+sample wait mean 19.1497
+sample wait variance 4.04579
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+19.4288 < 20.1493 < 20.8698
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+18.4299 < 19.1497 < 19.8695
+Time taken by function: 1758676565
+
+The value of the input parameter lambda: 0.15
+The value of the input parameter K: 100000
+sample system mean 1.17628
+sample system variance 1.07239e-05
+sample wait mean 0.176101
+sample wait variance 2.52213e-06
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.1751 < 1.17628 < 1.17745
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.175533 < 0.176101 < 0.176669
+Time taken by function: 1738041390
+Press any key to continue . . .
+
+
+
+The value of the input parameter lambda: 0.05
+The value of the input parameter K: 100000
+sample system mean 1.05168
+sample system variance 3.34913e-06
+sample wait mean 0.0522396
+sample wait variance 8.94067e-07
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.05103 < 1.05168 < 1.05234
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.0519012 < 0.0522396 < 0.052578
+Time taken by function: 1742840961
+Press any key to continue . . .
+
+The value of the input parameter lambda: 0.25
+The value of the input parameter K: 100000
+sample system mean 1.33239
+sample system variance 2.02089e-05
+sample wait mean 0.332782
+sample wait variance 8.92595e-06
+The average system time and corresponding confidence intervals (based on the K serviced customers only)
+1.33078 < 1.33239 < 1.334
+The average waiting time and corresponding confidence intervals (based on the K serviced customers only)
+0.331713 < 0.332782 < 0.333851
+Time taken by function: 1729303779
+
+
+
+
+// prempt a new arrival q2, check is next dpart event has lower priority(no need to check it self since fcfs), push to the queue, next loop
+// next arrival is q1, check priority, and found next is lower, so push it to the q1, and update the last arrival q2's service time(q2 service time - q2's arrival - q1's arrivale)
+// push q2 back to q2, update dpart event time(clock + q1 service)
+
+// for depart, just go though all queues, and pick one by order for generating  dpart 
